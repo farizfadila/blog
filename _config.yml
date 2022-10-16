@@ -37,7 +37,7 @@ add_permalinks: true
 
 # Optional
 twitter: 
-linkedin: https://www.linkedin.com/in/farizfadila/
+linkedin: farizfadila
 support: https://github.com/farizfadila/blog/issues
 repo: https://github.com/farizfadila/blog
 github_user: farizfadila
